@@ -1,0 +1,14 @@
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\bin\Debug\net6.0\VirtuosoChallenge.exe
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\bin\Debug\net6.0\VirtuosoChallenge.deps.json
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\bin\Debug\net6.0\VirtuosoChallenge.runtimeconfig.json
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\bin\Debug\net6.0\VirtuosoChallenge.dll
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\bin\Debug\net6.0\VirtuosoChallenge.pdb
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\obj\Debug\net6.0\VirtuosoChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\obj\Debug\net6.0\VirtuosoChallenge.AssemblyInfoInputs.cache
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\obj\Debug\net6.0\VirtuosoChallenge.AssemblyInfo.cs
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\obj\Debug\net6.0\VirtuosoChallenge.csproj.CoreCompileInputs.cache
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\obj\Debug\net6.0\VirtuosoChallenge.dll
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\obj\Debug\net6.0\refint\VirtuosoChallenge.dll
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\obj\Debug\net6.0\VirtuosoChallenge.pdb
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\obj\Debug\net6.0\VirtuosoChallenge.genruntimeconfig.cache
+C:\Users\KMM273\source\repos\Virtuoso\VirtuosoChallenge\VirtuosoChallenge\obj\Debug\net6.0\ref\VirtuosoChallenge.dll
